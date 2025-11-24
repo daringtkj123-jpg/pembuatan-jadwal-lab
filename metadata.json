@@ -1,0 +1,5 @@
+{
+  "name": "SMK Binus Lab Scheduler",
+  "description": "A smart laboratory scheduling system for SMK Bina Nusantara using Gemini AI for conflict resolution and schedule optimization.",
+  "requestFramePermissions": []
+}
